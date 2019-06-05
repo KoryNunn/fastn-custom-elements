@@ -10,7 +10,7 @@ It does!
 
 I used the webtorrent-element from https://github.com/mikeal/webtorrent-element in the example.
 
-[see it working](korynunn.github.io/fastn-custom-elements/example/index.html)
+[see it working](//korynunn.github.io/fastn-custom-elements/example/index.html)
 
 ## How
 
